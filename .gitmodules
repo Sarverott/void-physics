@@ -1,4 +1,3 @@
 [submodule "OmniMath"]
 	path = "docs/lang.pl-PL/Dogmat Technomantycznej Matematyki"
-    branch = drafting.pl-PL
 	url = https://github.com/Sarverott/omnimath
