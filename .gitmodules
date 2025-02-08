@@ -1,0 +1,3 @@
+[submodule "Dogmat Technomantycznej Matematyki"]
+	path = docs/lang.pl-PL/Dogmat Technomantycznej Matematyki
+	url = https://github.com/Sarverott/omnimath.git
