@@ -24,6 +24,7 @@ granicznego
 w zależności od skali redukcji dysocjacyji w trakcie obserwacji określić można 
 
 Potencjał kwantyzacyjny przed **"wystąpieniowym zdarzeniem relatywizacji"** 
- 
+
+### Zasada __Tetralogii Kontekstu__
  
 ---
