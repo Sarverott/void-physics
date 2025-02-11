@@ -1,6 +1,8 @@
-# Postulat Fizyki Pustki 
+# Postulat Fizyki Przestrzeni 
 
-##### Sett Sarverott (Adam A. Borucki) `~>` sett@sarverott.com
+##### Sett Sarverott A.A.B. `~>` sett@sarverott.com
+
+> "Universal physics of the void omnipresence" badania, klaryfikacjia, research, opracowanie oraz adaptacja trwają od 2016 w trybie aktywnym semifokusowym 
 
 ---
 
