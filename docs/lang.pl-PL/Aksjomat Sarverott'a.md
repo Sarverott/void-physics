@@ -1,6 +1,8 @@
 > jest to aksjomatyczna formuła dowodząca istnienia systemu operacyjnego
 
-Niezależnie od perspektywy obserwatora, ograniczeń obserwacyjnych, braku spójnych odpowiedzi pozwalających klarownie badać naturę zjawiska jesteśmy w stanie wytyczyć 4 filary elementarne każdego wszechświata, niezależnie czy symulowanego czy nie:
+# Aksjomat Sarverott'a
+
+Niezależnie od perspektywy obserwatora, , ograniczeń obserwacyjnych, braku spójnych odpowiedzi pozwalających klarownie badać naturę zjawiska jesteśmy w stanie wytyczyć 4 filary elementarne każdego rzeczywistego systemu występowania, niezależnie czy symulowanego czy też nie:
 - **wartości** - jednostkowe stany prymitywnej notacyjności bazowej
 - **wzory** - zależnościowe układy opisowości wynikowania i relacyjności
 - **wydarzenia** - momentaryczne zjawiska wynikłe z rzeczywistych wartości według wzorów dając pojedynczy rezultat końcowy
@@ -15,11 +17,12 @@ Niezależnie od perspektywy obserwatora, ograniczeń obserwacyjnych, braku spój
 - $FUNCTION <<"wzór"
 - $EVENT <<"wydarzenie"
 - $CONTAINER <<"nośnik"
+
 ```
 
-zbiór wartości bazowych (bV) to wszystkie jednostkowe stany faktyczne nośnika i uniwersalne stałe
+- zbiór wartości bazowych (bV) to wszystkie jednostkowe stany faktyczne nośnika i uniwersalne stałe
 
-zbiór wartości wynikowych (eV) to zbiór wartości bazowych, oraz wyniki relacji między wartościami i ich efekty, czyli stany wirtualne
+- zbiór wartości wynikowych (eV) to zbiór wartości bazowych, oraz wyniki relacji między wartościami i ich efekty, czyli stany wirtualne
 
 zbiór wzorów bazowych (bF) to wszystkie kluczowe zależności między wartościami wymagane aby system sam w sobie mógł spełnić dowód pełen istnienia
 
