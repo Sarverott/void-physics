@@ -1,0 +1,30 @@
+{
+  "name": "void-physics",
+  "version": "1.0.0",
+  "description": "teoria fizyki przestrzeni",
+  "main": "README.md",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "init": "sh ./dev-tools/after-clone.sh",
+    "test": "sh ./dev-tools/relm-test-run.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sarverott/void-physics.git"
+  },
+  "keywords": [
+    "dark",
+    "sci-fi",
+    "reality",
+    "facts",
+    "science"
+  ],
+  "author": "A.A.B. Sett Sarverott",
+  "license": "SEE LICENSE IN ./LICENSE",
+  "bugs": {
+    "url": "https://github.com/Sarverott/void-physics/issues"
+  },
+  "homepage": "https://github.com/Sarverott/void-physics#readme"
+}
