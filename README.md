@@ -18,6 +18,11 @@ Zestaw założeń komplementarnych uzupełniających model występującego syste
 
 Rezultaty, zwane dalej **wartościami** występujące jako bierzące stany informacyjne w wyznaczonym momentarycznym punkcie teraźniejszym są wynikiem opisywalnych **zdarzeń** o punkcie zakończenia, występującym kolejnością przed wyznaczonym **punktem "teraz"**. 
 
+```python
+
+
+
+```
 
 Wystąpienia owych **zdarzeń** są rezultatem dysonansu stanu **wartości** poprzednich których relacje wynikają z regół wspólnie przyjętej rzeczywistości dla wspomnianych **wartości** i są one określalne według formularnych zestawów wartościowych, reprezentujących wystąpienia **wzorów**. 
 
