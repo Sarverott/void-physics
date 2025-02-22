@@ -1,4 +1,6 @@
-# Postulat Fizyki Przestrzeni 
+# Postulat Fizyki Przestrzeni  
+
+> terms and copytight in [LICENSE](./LICENSE) file.
 
 ##### Sett Sarverott A.A.B. `~>` sarverott@gmail.com
 
@@ -10,7 +12,7 @@
 
 ---
 
-## Omnis moriatur, est axioma vitae
+## [Omnis moriatur, est axioma vitae](./docs/lang.pl-PL/Czy%20jesteśmy%20częścią%20systemu%50operacyjnego?.md) 
 
 Zestaw założeń komplementarnych uzupełniających model występującego systemu rzeczywistości jako rezultatu wynikającego z procesu postępującego klarowania się reprezentowanych przez jednostkowe stany przestrzeni, określane wraz z uwzględnianiem kolejnych składowych zmiennych przez całościowy obiekt jakim jest wspólna pojedyncza przestrzeń dla całego rzeczywistego wszechświata włącznie. 
 
@@ -18,9 +20,48 @@ Zestaw założeń komplementarnych uzupełniających model występującego syste
 
 Rezultaty, zwane dalej **wartościami** występujące jako bierzące stany informacyjne w wyznaczonym momentarycznym punkcie teraźniejszym są wynikiem opisywalnych **zdarzeń** o punkcie zakończenia, występującym kolejnością przed wyznaczonym **punktem "teraz"**. 
 
-```python
+```c++
+#include <list>
+#include <vector>
 
+#include<space/VARIABLES>
 
+#include<space/EVENTS>
+#include<THGttG-42.h/observation_actor>
+
+using namespace eagerObserversInYourNeighbourhood; // ¯\_(ツ)_/¯ 
+//human && omniscope4000
+
+list<human> OUR_GROUP; 
+
+// let's skip counting, i suppose that someone will read this, so this is... 
+// a group of excursionists in witch every person that reads it is part 
+// of our trip ;) 
+
+// mieszane z polskim -.- trudno
+
+EVENTS::momentaryPoint &NOW; // ustalamy momentaryczne wystąpienie zdarzenia TERAZ
+
+tool<human> reader = new omniscope4000(); // droga odczytu perspektywy ludzkiego obserwatora - redukcja uchwyconych informacji jeszcze nie nastąpi
+
+reader.FROM( VARIABLES::variables.ALL ); // chwytamy odnośnik wszystkich występujących wartiści różnego punktu kontekstualności, zakresu obserwowalności i róznego stanu dysocjacji obserwacyjnej odbieranej rzeczywistości
+
+/*       Z pośród vars.ALL          */
+
+reader.SELECT( "question for 42 as answer" )// ustawiamy filter selektywny, skupiający się na pytaniu z "autostopem przez galaktykę"
+
+/*       selektuj pytania na które można odpowiedzieć 42          */
+
+reader.AWAIT( NOW ).ON( "moment-pointed", void(){ reader.QUERY() } )
+// w momencie określenia TERAZ nastąpi odzytanie pytania na które można odpowiedzieć 42 - tak działa wszechświat, nie ma miejsca na logi, backupy czy historię przeglądania w surowej pustce... nie wiem czy pustka na parze nie byłaby zjadliwsza
+
+EVENTS::chronology->upToStream(); // wskaźnik bierzącego wąthu strumienia zdarzeń
+
+EVENTS::chronology >> NOW; //stoplkatka NOW ;; reader zrobił odczyt i zapisa w formieł snapshota stanu w momencie stopklatki NOW
+
+printf( reader.output ); //tu następuje redukcja informacji do odczytywalnego dla człowieka stanu materioskopowego
+
+/*             BUFFER OVERFLOW on questioning: 42           */ 
 
 ```
 

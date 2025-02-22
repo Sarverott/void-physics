@@ -1,6 +1,6 @@
 > koncept współzależności każdej pojedynczej jednostkowej niejednoznacznej wartości z unitarną koherentną wspólną przestrzenią nośnika 
 
-zestawy oddziaływań zespolonych macieży kwarycznych wpływają na siebie nawzajem w kontekście wspólnym w relacji wg. kontekstu:
+zestawy oddziaływań zespolonych macieży kwarycznych (od kwarków) wpływają na siebie nawzajem w kontekście wspólnym w relacji wg. kontekstu:
 
 ```omnimath
 # SPACE.including(void) :: "definiowanie skali kompleksowości uwzględniania niejednoznaczności"
@@ -24,6 +24,7 @@ zestawy oddziaływań zespolonych macieży kwarycznych wpływają na siebie nawz
 - every[ $t @ void ] $T_all +< $t
 
 ###### "wskazując każdy rzeczywisty moment badania do puki $x należy do $X_all dla każdego elementu $X_all wyłączając $x z tego iterowania $x najpierw bierze poprawkę na każdą ze wskazanych wartości we wrzechświecie a potem dookreśla swój aktualny wynik bierzący, kończąc swoją dzierżawę wątku wynikowania bierzącego
+
 > NOW[$t*]{ until[ $x @ $X_all ]{   for[ $X_all/-$x ]{ $x...$[]X_all* } $x!() } }
 
 ```

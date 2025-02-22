@@ -19,7 +19,7 @@ VARIABLES = __import__("time").time()
 # zaobserwowano w VARIABLES stempel sekundowy epoki
 # na maszynie "setternet-L5", w zlokalizowanej na ziemi sieci
 
-lambda A : __import__(list("importlib","pip","dis",'_thread','ctypes','operator','mmap','pwd','fcntl','pty','socks')[])
+lambda A : __import__("_thread;posix;importlib;pip;dis;ctypes;operator;mmap;socket;ast;code;codeop;fcntl;pty;tempfile;pdb;venv;io;os;sys;pkgutil;re;winreg;msvcrt;xml".split(",")[A])
 
 MY_NAMESPACE = list().append("importlib").append("sys").append("pip").append("paramiko")
 

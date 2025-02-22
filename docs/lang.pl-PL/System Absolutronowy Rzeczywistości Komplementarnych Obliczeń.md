@@ -2,5 +2,6 @@
 
 S.A.R.K.O. to system komputacyjno-wynikowych wystąpień rzeczywistości który podczas konfrontacji z aksjomatem sarverotta wykazał istnienie dowodu występowania systemu
 
+
 #### [Aksjomat Sarverott'a]("./Aksjomat%20Sarverott'a.md") - podstawa dowodowa teorii istnienia dowodu występowania rzeczywistości
 

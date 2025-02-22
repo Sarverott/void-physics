@@ -1,0 +1,10 @@
+- względność czasu obala istnienie czasu
+- zdarzenia tworzą uporządkowaną chronologię
+- jeśli zdarzenia są również wartościami, to zgodnie z formułą entropijną mogą podążać za jakimś algorytmem sortowania jako sposobem przekształcenia końcowego wyniku z uporządkowanymi końcami i początkami zdarzeń
+- absolutny brak ruchu powinien, jak sugeruje formuła względności czasu, skutkować natychmiastową nieskończonością czasu dla doświadczania tej materii
+- dla pustej przestrzeni czas nie występuje, więc przestrzeń nie jest powiązana z czasem
+- fotony i inne cząstki pozorne są najszybsze, bo powodują nagłą zmianę napięcia przestrzeni i mają proste do obliczenia przejścia wektorowe - to może być maksymalna prędkość przetwarzania zdarzeń
+- osiągnięcie prędkości nadświetlnej przez materię utrudnia lokalną kalkulację zdarzeń ze względu na formuły morficzne - wykładnicze zapotrzebowanie na energię podczas osiągania prędkości nadświetlnej i granicy prędkości nadświetlnej sugeruje, że przestrzeń może mieć swój własny stały opór w przestrzeni, który ogranicza szybkość obliczeń
+- nasze przewidywania okresu między bigbangiem a chwilą obecną powinny wskazywać na osiągnięcie limitu funkcji, ze względu na względność czasu, być może taka sama sytuacja jest między chwilą obecną a śmiercią wszechświata przez entropię
+- data bigbangu to najprawdopodobniej śmierć gwiazdy sagittarius A, zdarzenie supernowej może wyemitować fale radiowe, które jak to się dzieje nawet na Ziemi powracają po opuszczeniu galaktyki, ponieważ ich wektor został cofnięty przez mechanikę, o której wspomniałem wcześniej.
+- W tym momencie musimy zastanowić się, jaka jest różnica między uzyskaniem odległości między galaktykami.

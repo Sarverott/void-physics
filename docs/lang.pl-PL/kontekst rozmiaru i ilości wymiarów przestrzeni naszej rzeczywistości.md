@@ -4,7 +4,6 @@ Błąd koncepcyjny co do "paradoksu pomiarowego przestrzeni" dała nam błędny 
 
 Nie wiem jak nazwać całościowy proces na wzór działania pochodnej funkcji
 
-<!--prywata::żal do świata i rodziców-->
 
 ---
 
