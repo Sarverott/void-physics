@@ -376,3 +376,4 @@ poetry.toml
 pyrightconfig.json
 .obsidian
 # End of https://www.toptal.com/developers/gitignore/api/python,node,jupyternotebooks,cmake,composer,dotnetcore
+Untitled*
