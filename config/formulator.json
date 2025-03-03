@@ -1,0 +1,92 @@
+{
+    "structurationes":{
+        "elementars":{
+            "domainals": {
+                "examples"
+            },
+            "operatorals": "",
+            "incidentals": "", //ts its ds ends beggins
+            "vocabulars": {
+                "es"
+                "as"
+                ""
+            }
+        },
+    },
+
+    //from overlord project
+    # vast observational internal determinability
+# vast observational interdisciplinar descriptionality
+# variational ongoing interdisciplinar descriptionality
+# vector overflow interaction deductionability
+# vector overflow information deductions
+# values operationable incidental dimentions
+# value operating incidental dimentions
+
+
+"VOID":{
+        "INCLUDES":"codes;docs",
+        "MODABLES":"all_bos;",
+        "LOOK":"bos_project_context_controll",
+        "NOW":"translateDecToHex(momentNow)",
+        "NAME":json.dumps(paracite.package["project"]["name"]),
+        "RELATE":"item;item;item;item;item;item;item;item;item;item;item;item;item;item;item;item;item;item"
+    },
+
+    "VOID-proto":{
+        "INCLUDES":"codes;docs",
+        "MODABLES":"all_bos;",
+        "scopability":"<scalar_from:contextpointer:scalar_to>[+<>-omnimathals]",
+        "interprets":"bos_project_context_controll",
+        "oldestNOW":"translateDecToHex(momentNow)",
+        "formalNAME":json.dumps(paracite.package["project"]["name"]),
+        "relateHooks":"item;item;item;item;item;item;item;item;item;item;item;item;item;item;item;item;item;item"
+    },
+    
+    "focusables" - variable - TRUE
+    "focusars" - function - TRUE
+    "focusibility" - compatible with event
+    "focusarity" - limiting scope can be determined 
+    "focusarion" - fitable initial context intro configurants (like docker image, docker compose)
+    ""
+
+    "prospect"
+    "<both not>"
+    "conspect"
+
+    "contextalers":{
+        "prospect":{"focusarion"=>"realiasing definitanry observals by pseudoscoping"}
+    },
+    "chronosortability":{
+
+    },
+    "modulability":{
+        "redundance":true,
+        "inclusive":true,
+        "recursion":true,
+        "recordable":false,
+        "stopable":false,
+        "defined":false,
+        "determined":false,
+        "determinable":false,
+        "sumable":true,
+        "interpretable":true,
+        "relable":true,
+        "voidality":true,
+        "voidatorials":true,
+        "voidants":true,
+        "voidations":true,
+        "voidance":true,
+        "voidoception":true,
+        "voidoversality":true
+    },
+    "":{
+        "scopals":{
+            "gens":["vocabulars", "domainals"],
+        },
+        "verifals":{
+            "gens":["vocabulars"],
+
+        }
+    }
+}
