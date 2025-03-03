@@ -1,22 +1,42 @@
 
 
+
 class VoidError extends Error {
-    static exists(omniverse, agent){
+    static exists(omniverse, agent, args=null){
         return this.E(
             "Reality already initialised! Recreation of Omniverse attempt.", 
             [
-                "EXISTING",
+                "EXISTING RELM",
                 Object.freeze(omniverse), 
-                this.reject(agent)
+                this.reject(agent,args)
             ]
         );
     }
-    static reject(rejected){
+    static unknownSetup(args){
+        return this.E(
+            "unrecognised args form! setup has wrong definition",
+            [
+                Object.freeze(args),
+            ]
+        );
+    }
+    static reject(rejected,args=null){
         return this.E(
             "Reject overwrite attempt! conflict occured", 
             [
-                "REJECTED",
-                Object.freeze(rejected)
+                "REJECTED RELM",
+                Object.freeze(rejected),
+                (args===null)
+                ?
+                "setup not provided"
+                :
+                (
+                    (args instanceof Array)
+                    ?
+                    args.entries
+                    :
+                    this.unknownSetup(args)
+                )
             ]
         );
     }
@@ -60,24 +80,4 @@ class VoidError extends Error {
 }
 
 
-
-class Void{
-    static OMNIVERSE = null;
-    constructor(){
-        
-    }
-    static init(){
-        const relm = new this();
-        if(this.OMNIVERSE === null) this.OMNIVERSE = relm;
-        else throw this.ERROR.exists(this.OMNIVERSE, relm);
-        return relm;
-    }
-    
-    static ERROR = VoidError;
-}
-
-
-
-console.log(Void.init());
-
-console.log(Void.init());
+export default VoidError
