@@ -40,6 +40,47 @@ class VoidError extends Error {
             ]
         );
     }
+    static missEntityGroup(...args){
+        return this.E(
+            "identification of entity from non-declared group",
+            [
+                ...args
+            ]
+        );
+    }
+    static groupAdding(...args){
+        return this.E(
+            "identification of entity from non-declared group",
+            [
+                ...args
+            ]
+        );
+    }
+    static entityAdding(...args){
+        return this.E(
+            "issue has occured while reading entity file",
+            [
+                ...args
+            ]
+        );
+    }
+
+    static namespaceJson(...args){
+        return this.E(
+            "issue has occured while reading entity file",
+            [
+                ...args
+            ]
+        );
+    }
+    static doubleEntityGroup(...args){
+        return this.E(
+            "rejected attempt of creating another group with same name",
+            [
+                ...args
+            ]
+        );
+    }
     static E(m,c=null){
         return new VoidError(
             ...(

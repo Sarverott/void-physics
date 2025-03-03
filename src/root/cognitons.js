@@ -1,45 +1,34 @@
 
-import Void from "./void";
+//import Void from "./void";
 
 //const REALITY_BASE_ELEMENTS = //Proxy.revocable(Cogniton) 
 
 //const NamespaceRecord  UESC = []
 
-import(
-    "./namespace.json", 
-    { 
-        with:{ 
-            type:"json" 
-        } 
-    }
-).then(
-    (namespace)=>Cogniton.LOAD.namespace=namespace;
-).catch(
-    (err)=>
-)
+// role of cosmic empty void as default state of blank universe 
+// is still part of submissional spacial forces background activities  
+// like microclarifications of resultant continuity radiation
+// or interspatial routines of consensus controll checks after changes
+// both are unsolvable by non-endability of oscilation precendense 
+// in relative scalar issue in negative collapse of enforced entropy 
+// process without clue of minimal emergential scale border, 
+// and lacking controlll group for relative 
+// chronology - required factorial formula to describe earth's spatial
+// resistance by difftest (local timeouting passage factor & accumulation
+// of NOW states ponters) 
+// currently undefined by humanity
 
-class Cogniton{ // recognizable distinct type of elementarion clasification spectrum group
-    static MOUNT(entityName, entityGroup){
-        import(
-            `./${entityGroup}.${entityName}.js`
-        ).then(
-            (INVOKER)=>{
-                if(!Void.hasOwnProperty(entityGroup)){
-                    EXTEND
-                }
-                Void[entityGroup][entityName]=INVOKER(Void[entityGroup])
+const ENTITY_GROUP = {
+    CLASS:null,
+    DEFINE(RAUH){ // Real Absolution Universalised Hosting
+        this.CLASS = class Cogniton extends RAUH{ // recognizable distinct type of elementarion clasification spectrum group
+            constructor(){
+    
             }
-        ).catch(
-            (err)=>
-        )
-        
-    }
-    static EXTEND(callback){
+        };
+        return this.CLASS;
+    },
 
-    }
-    static get LOAD(loadPack){
-        return new Proxy(this, )
-    }
-};
+}
 
-//export default VoidError
+export default ENTITY_GROUP;
