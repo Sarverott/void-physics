@@ -47,25 +47,25 @@ class Void extends null{
                 
                 Void[entityGroup] = ENTITY_GROUP.default.DEFINE( Void );
 
-                if( Void[entityGroup].constructor.name != entityGroup ){
+                if( Void[entityGroup].name != entityGroup ){
 
-                    if( Void.hasOwnProperty(Void[entityGroup].constructor.name)) 
+                    if( Void.hasOwnProperty(Void[entityGroup].name)) 
                         throw Void.ERROR.doubleEntityGroup(
-                            Void[entityGroup].constructor.name, 
+                            Void[entityGroup].name, 
                             entityGroup,
                             Void
                         );
 
                     Void[
-                        Void[entityGroup].constructor.name
+                        Void[entityGroup].name
                     ]=Void[entityGroup];
                 }
                 console.log("ADD_GROUP", entityGroup, 
-                    Void[entityGroup].constructor.name, 
+                    Void[entityGroup].name, 
                     Void[entityGroup]);
                 callback(
                     entityGroup, 
-                    Void[entityGroup].constructor.name, 
+                    Void[entityGroup].name, 
                     Void[entityGroup]
                 )
             }
