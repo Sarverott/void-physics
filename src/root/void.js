@@ -13,13 +13,22 @@ class Void extends null{
     static async ADD_ENTITY(entityName, entityGroup){
         //console.log(entityName, entityGroup);
         import(
-            `./${ entityGroup }.${entityName}.js`
+            `./${ entityGroup.toLowerCase() }.${entityName}.js`
         ).then(
             (ENTITY)=>{
                 if( !Void.hasOwnProperty(entityGroup)) 
                     throw Void.ERROR.missEntityGroup(entityName, entityGroup);
 
                 Void[entityGroup][entityName] = ENTITY.default.DEFINE( Void[entityGroup] );
+                Void[entityGroup][
+                    Void[entityGroup][entityName].name
+                ] = Void[entityGroup][entityName];
+                Void[Void[entityGroup][entityName].name] = Void[entityGroup][entityName];
+                console.error("# data #:", Void.Data);
+                console.error("# driveset #:", Void.Driveset);
+                console.error("# link #:", Void.Link);
+                console.error("# exception #:", Void.Exception);
+                console.error("### VOID ###:", Void);
             }
         ).catch(
             (err)=>{
