@@ -1,3 +1,32 @@
+# Physics of the Void
+
+in attempts of solve holly code of universe environment i came up with something like that:
+
+```json
+{
+    "scope":"this",
+    "defined":{
+        "this":["all","ABSOLUT","self-addressable naming of system represented as universe","ultimate hash broken or not of this string that represents alternative name like each other data"],
+        "data":0,
+        "subscopes":[]
+    },
+    "combined":{
+        "all-relations":[],
+        "all-rules":[],
+        "all-procedures":[],
+        "perception-ways":[]
+    },
+    "executed":{
+        "events":[],
+        "passing":[],
+        "sorted-event-chaining":[],
+"resultant-impacting":[],
+"exceptions":[]
+    }
+}
+```
+---
+
 # Postulat Fizyki Przestrzeni  
 
 > terms and copytight in [LICENSE](./LICENSE) file.
