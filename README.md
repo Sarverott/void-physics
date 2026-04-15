@@ -125,7 +125,7 @@ Wyciągając wnioski na podstawie tego mamy pewności elementarności występowa
 Dowodami podważającymi rzeczywiste występowanie czasu są: 
  - wnioski z obu teorii względności Alberta Einsteina, które obaliły kocherętność zjawiska mijania i wytyczyły  
  - opracowania matematyczne Paula Diraca
--->
+
 granicznego
 
 w zależności od skali redukcji dysocjacyji w trakcie obserwacji określić można 
@@ -135,3 +135,4 @@ Potencjał kwantyzacyjny przed **"wystąpieniowym zdarzeniem relatywizacji"**
 ### Zasada __Tetralogii Kontekstu__
  
 ---
+-->
