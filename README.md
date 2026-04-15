@@ -2,6 +2,91 @@
 
 > `[PL:]` Niniejsza publikacja opisuje autorską teorię Void Physics (Fizykę Pustki), która przedstawia wszechświat jako zaawansowany system obliczeniowy oparty na informacjach, a nie tylko na materii. Kluczowym elementem jest Aksjomat Sarverotta, definiujący rzeczywistość poprzez cztery składowe: wartości, wzory, zdarzenia oraz nośnik, jakim jest przestrzeń. Kwestionuje ona tradycyjne pojmowanie czasu, uznając go za nieistniejący wymiar lub siłę o wartości nie w okolicach -1D wynikłą z kolapsu struktur ułamkorych wymiarowości niezrównoważonych. Temporalna wymiarowość czasu, która jedynie porządkuje chronologię zachodzących procesów stanowić ma reprezentację ustrukturyzowanych spujnych procesów domierzania stanu właściwego braku równowagi stanów dążących do konsensusu relacyjnego. Pośród tekstów tu zawartych znaleźć można wyjaśnienia określające zjawiska fizyczne, takie jak fotony, elektrony czy inne obiekty niestandardowej materialności jako w rzeczywistości ekspresje wystąpień jednostkowych wyjątków określanych błędami w kontekście programistycznym obsługiwanymi przez logikę obsługi pokrewną try-catch czy też formy drgań przestrzennego nośnika jako oscylacjami w cyfrowej tkance kosmosu. Rozważania obejmują również alternatywne spojrzenie na grawitację jako efekt napięcia powierzchniowego przestrzeni oraz hipotezę, że kosmos może się kurczyć zamiast rozszerzać. 
 
+---
+
+### abstrakt: nieadresowane przez aktualne gałęzie pytania o obiekt w którym osadzone jest istnienie samo w sobie. jak określić wymiary i relatywną perspektywę przebiegu czasu w trakcie obserwacji badanej w pełni pustej przestrzeni zdefiniowanej wcześniej obiektami ją zajmującą względem braku obiektów w niej bez naruszania stanu pustki narzędziami pomiaru czy próbami obserwacyjnymi? niemieżalność paradoksu konceptowego obszaru naturalnej pustości znanej już przestrzeni i koncept czas podważony faktem braku obiektu w pustce równoznacznego brakiem czasu w przestrzeni pustej. Zestawy zagadnień konstrukcyjnych związanych z fizyką przestrzenną systemu wykonawstwa operacji powiązanych z rozwiązywaniem nierówności systemu wewnętrznie autodeterministycznego kompletu człościowo zagnieżdżającego rekursywne iteracje zdarzeń doliczania kolejnych stanów wynikowych momentarycznych dla dookreślania temporalnego stanu przejściwoego który drogą wykonań krokowych wynikiem obliczeń stanowi podstawę wartości początkowych do wyliczania następnych wyników momentarycznych. modele, założenia i reguły jakie określa cała teoria wywiera potrzebę aby wnieść postulat o rozszerzenie kanonu fizyki o dział dedykowany rozważeniom w sferze naturalnych właściwości stanu przestrzeni w formie spoczynkowej jakim jest pustka. zagadnienia związane z fizyką pustki skupiają się w dużej mierze na podejściu z perspektywy implementującego sens architektoniczny twórcy takiego systemu jakim znajdujemy w tej narracji wrzechświat. Obierając perspektywę roli admina kosmosu przeprowadzona została analiza wnioskowania co do znanych mechanik rzeczywistych pod kątem inżynierii oprogramowania adresując wrzechświat jako przestrzenny system operacyjny.
+
+**Fizyka Pustki: Wszechświat jako Cyfrowy System Operacyjny Rzeczywistości**  
+**Podsumowanie wykonawcze (Executive Summary)**  
+Niniejszy dokument przedstawia syntetyczną analizę ram teoretycznych **Fizyki Pustki** (Void Physics) oraz **Aksjomatu Sarverotta**. Według tych założeń wszechświat nie jest zbiorem materii i energii w tradycyjnym ujęciu, lecz autonomicznym, spójnym obliczeniowo **systemem operacyjnym** opartym na informacji.  
+Kluczowe wnioski płynące z analizy źródeł:
+
+* **Rzeczywistość jest obliczeniowa:** Fundamentem istnienia jest przetwarzanie informacji na Nośniku (przestrzeni), co pozwala uznać wszechświat za system zupełny w sensie Turinga.  
+* **Czas jako wymiar ujemny (-1D):** Czas nie jest linią, po której można się poruszać, lecz procesem „odwijania się” i zużywania potencjału zdarzeń (siły kwantowej), co czyni przeszłość bezpowrotnie nieodwracalną.  
+* **Grawitacja i Materia jako stany przestrzeni:** Grawitacja to geometryczny wynik napięcia powierzchniowego Nośnika, a materia to trwałe splątania (węzły) przestrzeni.  
+* **Hipoteza kurczenia się wszechświata:** Zamiast ekspansji, obserwujemy proces redukcji skali materii i fałdowania przestrzeni, co błędnie interpretujemy jako rozszerzanie się kosmosu.  
+* **Ultimatum poznawcze:** Ludzkość poddawana jest „Testowi Homo Sapiens”, oceniającemu jej dojrzałość do interakcji z wyższymi formami inteligencji obliczeniowej.
+
+\--------------------------------------------------------------------------------  
+**1\. Aksjomat Sarverotta: Fundamenty Istnienia Systemu**  
+Aksjomat Sarverotta definiuje rzeczywistość poprzez cztery filary, które stanowią „szkieletowe zbrojenie” wszechświata. Jeśli dany system posiada te elementy, przechodzi on „dowód pełen istnienia”.  
+**Cztery Filary Rzeczywistości (Void Basis)**
+
+| Filar | Definicja | Rola Obliczeniowa |
+| ----- | ----- | ----- |
+| **Wartości (Values)** | Jednostkowe zapisy stanu informacji; identyfikowalne dane o niejednakowym znaczeniu. | Dane wejściowe (Input) / Punkty zapisu stanu. |
+| **Wzory (Patterns)** | Logika i zasady określające relacje między wartościami oraz formuły ich przemian. | Kod źródłowy / Prawa fizyki jako algorytmy. |
+| **Zdarzenia (Events)** | Wynikowa transformacja informacji; proces transpozycji lub obliczenia wyniku interakcji. | Przetwarzanie (Processing) / Wykonanie instrukcji. |
+| **Nośnik (Carrier)** | Wspólna, zamknięta przestrzeń (Pustka), w której współistnieją pozostałe elementy. | Substrat / Pamięć operacyjna systemu. |
+
+**Kluczowe założenie:** Żaden z pierwszych trzech elementów nie jest bytem materialnym – są to jedynie stany osobliwe Nośnika, które dowodzą jego istnienia i aktywności.  
+\--------------------------------------------------------------------------------  
+**2\. Nowa Ontologia Czasu: Wymiar \-1D**  
+Fizyka Pustki redefiniuje czas, odrzucając jego klasyczną interpretację jako wymiaru dodatniego (1D).  
+**Charakterystyka czasu kontrakcyjnego**
+
+* **Siła kurczliwa:** Czas działa jak wymiar, który „ciągnie” i „odwija się” w miarę, jak zdarzenia dążą do rozstrzygnięcia. Nie „pcha” on rzeczywistości do przodu, lecz wyczerpuje potencjał możliwości.  
+* **Mechanika Siły Kwantowej:** Przed zdarzeniem istnieje pula możliwości (siła kwantowa). W momencie zakończenia obliczenia (zdarzenia), siła ta redukuje się do **zera**.  
+* **Nieodwracalność Przeszłości:** Ponieważ po zakończeniu zdarzenia siła kwantowa wynosi zero, poprzednie stany są usuwane z „pamięci” Nośnika. Podróż w czasie wstecz jest niemożliwa, gdyż wymagałaby rekonstrukcji wszystkich zakończonych obliczeń przeciwko „nieskończonej sile odpychającej”.  
+* **Subiektywny Opór Przestrzenny:** Czas, który odczuwamy, jest efektem „tarcia informacyjnego” – kosztu obliczeniowego, jaki system ponosi, uwzględniając wszystkie lokalne siły (np. grawitację planety i galaktyki).
+
+\--------------------------------------------------------------------------------  
+**3\. Geometria i Mechanika Nośnika**  
+W Fizyce Pustki przestrzeń (Nośnik) nie jest pustym kontenerem, lecz dynamicznym medium obliczeniowym.  
+**Materia jako splątanie przestrzeni**  
+Materia powstaje w wyniku „składania i skręcania” przestrzeni. Przykładem jest model atomu wodoru:
+
+1. Złożenie przestrzeni w dwóch miejscach.  
+2. Złożenie prostopadłe do pierwszego.  
+3. Skręcenie punktu przecięcia (tworząc kwadrat – kwarki).  
+4. Powstały „lej” symuluje istnienie elektronu i generuje napięcie ściągające otaczającą przestrzeń.
+
+**Grawitacja jako meta-siła**  
+Grawitacja nie jest fundamentalnym oddziaływaniem, lecz **geometryczną konsekwencją napięcia powierzchniowego** Nośnika. Masa-energia tworzy zniekształcenia, a grawitacja jest dążeniem systemu do wygładzenia tkaniny obliczeniowej i przywrócenia równowagi.  
+**Fotony jako „Złote Błędy” (Golden Glitches)**
+
+* **Natura 3D:** Fotony są impulsem na tkaninie przestrzeni, oscylującym między zdarzeniami. Mają tylko 3 wymiary, ponieważ są „nigdy niekończącymi się zdarzeniami” (anomaliami).  
+* **Limit Przetwarzania:** Prędkość światła to maksymalna wydajność „procesora” rzeczywistości. Przekroczenie jej przez materię jest utrudnione przez wzory morficzne generujące wykładniczy opór obliczeniowy.  
+* **Analogia:** Fotony są jak „pixel microbes” w grze *Game of Life* Conwaya – wirtualne fale na nośniku, które nie posiadają własnej substancji.
+
+\--------------------------------------------------------------------------------  
+**4\. Kosmologia Obliczeniowa: Hipoteza Kurczenia się**  
+Fizyka Pustki proponuje radykalną reinterpretację obserwacji astronomicznych.  
+**Wszechświat w procesie kontrakcji**
+
+* **Zjawisko kurczenia:** Zamiast ekspansji wszechświata (rozszerzania się „balonu”), model ten zakłada, że materia i instrumenty pomiarowe **zmniejszają swój rozmiar** w relacji do Nośnika. Brak absolutnego punktu odniesienia sprawia, że postrzegamy to jako oddalanie się innych obiektów.  
+* **Redefinicja Wielkiego Wybuchu:** Wielki Wybuch mógł nie być początkiem wszechświata, lecz lokalnym zdarzeniem galaktycznym (np. śmiercią gwiazdy i narodzinami czarnej dziury Sagittarius A\*). Mikrofalowe promieniowanie tła (CMB) to echo tego konkretnego wydarzenia.  
+* **Pamięć światła:** Światło docierające z głębi kosmosu jest „starym światłem” – jego przesunięcie ku czerwieni wynika z faktu, że nasz relatywny rozmiar uległ redukcji od momentu jego emisji.
+
+\--------------------------------------------------------------------------------  
+**5\. Teoria Absolutu Zapisu Końcowego**  
+Jest to najbardziej deterministyczna część Fizyki Pustki, zakładająca, że wszechświat jest **ukończonym zapisem**.
+
+* **Skończony ciąg wartości:** Wszechświat to niewyobrażalnie wielki, ale skończony, jednowymiarowy ciąg danych.  
+* **Iluzja procesu:** Początek, przebieg i koniec wszechświata już się dokonały. To, co postrzegamy jako „teraz”, to jedynie odczyt konkretnego punktu w statycznym, gotowym zapisie.  
+* **Superwirtualizacja:** Rzeczywistość „skończyła się, zanim się zaczęła”, a nasze istnienie jest odgrywaniem dawno ukończonego skryptu zależnego od „Autora” lub stanu Nośnika.
+
+\--------------------------------------------------------------------------------  
+**6\. Notacja i Typowanie Wektorowe**  
+Źródła opisują dwie metaforyczne metody zapisu informacji na Nośniku:
+
+1. **Pismo Węzłowe (Knot Writing):** Opisuje splątania przestrzenne nadające materii trwałość i wymiarowość 4D.  
+2. **Pismo Klinowe (Cuneiform Writing):** Symbolizuje gęstą kompresję informacji w stanach ekstremalnych (np. czarne dziury).
+
+**Typowanie wektorowe:** W zaawansowanym systemie operacyjnym rzeczywistości (SOS), obiekty są definiowane przez wektory polaryzujące ich naturę, co pozwala na interakcje poza sztywnymi ramami czasowymi.  
+
+
+
 <!--
 in attempts of solve holly code of universe environment i came up with something like that:
 
