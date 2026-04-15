@@ -1,5 +1,8 @@
-# Physics of the Void
+# Physics of the Void - postulat fizyki przestrzeni
 
+> `[PL:]` Niniejsza publikacja opisuje autorską teorię Void Physics (Fizykę Pustki), która przedstawia wszechświat jako zaawansowany system obliczeniowy oparty na informacjach, a nie tylko na materii. Kluczowym elementem jest Aksjomat Sarverotta, definiujący rzeczywistość poprzez cztery składowe: wartości, wzory, zdarzenia oraz nośnik, jakim jest przestrzeń. Kwestionuje ona tradycyjne pojmowanie czasu, uznając go za nieistniejący wymiar lub siłę o wartości nie w okolicach -1D wynikłą z kolapsu struktur ułamkorych wymiarowości niezrównoważonych. Temporalna wymiarowość czasu, która jedynie porządkuje chronologię zachodzących procesów stanowić ma reprezentację ustrukturyzowanych spujnych procesów domierzania stanu właściwego braku równowagi stanów dążących do konsensusu relacyjnego. Pośród tekstów tu zawartych znaleźć można wyjaśnienia określające zjawiska fizyczne, takie jak fotony, elektrony czy inne obiekty niestandardowej materialności jako w rzeczywistości ekspresje wystąpień jednostkowych wyjątków określanych błędami w kontekście programistycznym obsługiwanymi przez logikę obsługi pokrewną try-catch czy też formy drgań przestrzennego nośnika jako oscylacjami w cyfrowej tkance kosmosu. Rozważania obejmują również alternatywne spojrzenie na grawitację jako efekt napięcia powierzchniowego przestrzeni oraz hipotezę, że kosmos może się kurczyć zamiast rozszerzać. 
+
+<!--
 in attempts of solve holly code of universe environment i came up with something like that:
 
 ```json
@@ -122,7 +125,7 @@ Wyciągając wnioski na podstawie tego mamy pewności elementarności występowa
 Dowodami podważającymi rzeczywiste występowanie czasu są: 
  - wnioski z obu teorii względności Alberta Einsteina, które obaliły kocherętność zjawiska mijania i wytyczyły  
  - opracowania matematyczne Paula Diraca
-
+-->
 granicznego
 
 w zależności od skali redukcji dysocjacyji w trakcie obserwacji określić można 
